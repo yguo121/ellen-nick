@@ -1,8 +1,5 @@
 # Ellen最胖
 
-Ellen最美
-==============
-
 Mar 21, 2020 by [Ellen](https://yguo121.github.io/ellen-nick)
 
 今天小哥哥教我用blog，结束以后还要去健身！
